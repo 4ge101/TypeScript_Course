@@ -1,24 +1,24 @@
-<h1>TypeScript Basics</h1> <br>
+<h1><center>TypeScript Basics</center></h1> <br>
 This is a comprehensive overview of basic TypeScript concepts and features. Below are the topics covered, along with their definitions:
 
-1. Basic Types <br>
+<h2>1. Basic Types</h2> <br>
 Primitive Types: Includes number, string, and boolean. Used to represent simple data types.<br>
 Arrays: A collection of elements of the same type.<br>
 Tuples: An array with fixed types and positions for its elements.<br>
 Enums: A way to define a set of named constants.<br>
 Special Types: Any, Unknown, Void, Null, Undefined, Never.<br>
 <hr>
-2. Type Inference and Annotations<br>
+<h2>2. Type Inference and Annotations</h2><br>
 Type Inference: When TypeScript automatically infers the type of a variable.<br>
 Type Annotations: Explicitly specifying the type of a variable using a colon :.<br>
 <hr>
-3. Interfaces and Type Aliases<br>
+<h2>3. Interfaces and Type Aliases</h2><br>
 Interfaces: Used to define the structure or shape of an object.<br>
 Extending Interfaces: Allows one interface to inherit from another.<br>
 Type Aliases: Provides a shorthand name for a type.<br>
 Intersection Types: Combines multiple types into one.<br>
 <hr>
-4. Classes and Objects<br>
+<h2>4. Classes and Objects</h2><br>
 Class Definition: Blueprint for creating objects.<br>
 Constructors: Special methods for initializing class objects.<br>
 Access Modifiers: Public, Private, and Protected modifiers control the visibility of properties/methods.<br>
@@ -29,22 +29,22 @@ Getter and Setters: Used to define how properties are accessed or set.<br>
 Static Members: Properties or methods that belong to the class rather than any instance.<br>
 Abstract Classes and Methods: Used as a base class with unimplemented methods for subclasses.<br>
 <hr>
-5. Functions<br>
+<h2>5. Functions</h2><br>
 Function Types: Specifies the types of inputs and outputs for a function.<br>
 Optional and Default Parameters: Parameters that are either optional or have default values.<br>
 Rest Parameters: Allows functions to accept any number of arguments.<br>
 Overloads: Enables a function to handle different sets of parameters.<br>
 <hr>
-6. Generics<br>
+<h2>6. Generics</h2><br>
 Generic Functions: Functions that work with any data type.<br>
 Generic Interfaces: Interfaces that can be reused with different types.<br>
 Generic Classes: Classes designed to work with different data types.<br>
 <hr>
-7. Modules<br>
+<h2>7. Modules</h2><br>
 Exporting and Importing Modules: Enables code sharing across files.<br>
 Default Exports: Simplifies importing a module by specifying a default export.<br>
 <hr>
-8. Type Guards and Utility Types<br>
+<h2>8. Type Guards and Utility Types</h2><br>
 Type Guards: Checks and narrows down the type of a value using typeof or instanceof.<br>
 Utility Types: Predefined types such as Partial, Required, and Readonly to manipulate object types.<br>
 <hr>
