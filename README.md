@@ -1,5 +1,4 @@
-
-TypeScript Basics <br>
+<h1>TypeScript Basics</h1> <br>
 This is a comprehensive overview of basic TypeScript concepts and features. Below are the topics covered, along with their definitions:
 
 1. Basic Types <br>
